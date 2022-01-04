@@ -41,7 +41,6 @@ pretty_errors
 TgCrypto
 Pyrogram
 fontTools
-youtube-dl
 youtube_search_python
 youtube_search
 asyncio

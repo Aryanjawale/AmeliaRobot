@@ -100,7 +100,7 @@ if ENV:
         raise Exception("Your blacklisted chats list does not contain valid integers.")
 
 else:
-    from AsunaRobot.config import Development as Config
+    from AmeliaRobot.config import Development as Config
 
     TOKEN = Config.TOKEN
 
